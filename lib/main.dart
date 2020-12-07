@@ -38,6 +38,7 @@ class _MyAppState extends State<MyApp> {
         appBar: AppBar(
           title: const Text('Flutter Maps - Demo'),
           backgroundColor: Colors.green[700],
+          centerTitle: true,
         ),
         body: GoogleMap(
           onMapCreated: _onMapCreated,
