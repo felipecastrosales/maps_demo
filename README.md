@@ -30,7 +30,10 @@
 
 <h2 align="center">Preview 📱</h2>
 
-   > * In development...
+   <p align="center">
+      <img src="https://user-images.githubusercontent.com/59374587/117652125-2b3c8100-b169-11eb-961f-d50172828d6f.gif" width="400" alt="Maps Demo">
+   </p>
+
 ---
 
 <h2 align="center">Challenges and Learnings along the way 🤯</h2>
@@ -46,7 +49,8 @@
 <h2 align="center">How to Use 🤔</h2>
 
    ```
-   First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
+   First of all, correctly configure the Flutter development environment on your machine, 
+   see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
    $ git clone https://github.com/felipecastrosales/maps-demo maps-demo
